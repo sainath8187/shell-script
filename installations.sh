@@ -20,3 +20,4 @@ else
     echo :Installation of mysql.......Success"
 fi
 
+echo "Installation was successful"
