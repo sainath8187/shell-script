@@ -10,3 +10,4 @@ echo "Hostname: $HOSTNAME"
 echo "Process ID of the current shell script: $$"
 echo "Process ID of last background command: $!"
 
+echo "DONE"
