@@ -9,3 +9,4 @@ echo "Which User is running the script: $USER"
 echo "Hostname: $HOSTNAME"
 echo "Process ID of the current shell script: $$"
 echo "Process ID of last background command: $!"
+
