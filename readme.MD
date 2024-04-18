@@ -16,4 +16,5 @@ git commit -m "message"
 
 git push -u origin main
 
+update the changes if required to the file and follow the same steps as above
 
